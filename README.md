@@ -1,2 +1,2 @@
 # spir-v
-Lisp readable spec and stuff
+Lisp readable spec and stuff..not ready yet
