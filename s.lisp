@@ -1,9 +1,4 @@
-(in-package #:spir-v)
 (named-readtables:in-readtable fn_:fn_lambda)
-
-;;; "spir-v" goes here. Hacks and glory await!
-
-
 
 (defun mkstr (&rest args)
   (with-output-to-string (s)
