@@ -1,2 +1,1 @@
-# spir-v
-Lisp readable spec and stuff..not ready yet
+dont use this, others have the spec as json already
